@@ -29,7 +29,9 @@ This project transforms raw retail data into an interactive Excel dashboard to a
 
 2. Dashboard_Final.png: A high-resolution screenshot of the final visualization.
 
-3. Analysis_Report.md: A brief summary of findings and recommendations.
+3. Link to the worksheet: [Coffee Sales Interactive Dashboard] (https://1drv.ms/x/c/8834ae05ecd13d7b/IQC6pUCh4IadQYO3mLWGHyLeATynMIL6F6yDORsKchyucbM?e=BqCq9A)
+
+4. Analysis_Report.md: A brief summary of findings and recommendations.
 
 ### 🚀 How to Explore
 1. Clone this repository or download the .xlsx file.
