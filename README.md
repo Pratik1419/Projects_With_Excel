@@ -25,7 +25,7 @@ This project transforms raw retail data into an interactive Excel dashboard to a
 7. Dynamic Formatting: Used a professional color palette to ensure readability and accessibility.
 
 ### 📂 Project Structure
-1. Coffee_Sales_Data.xlsx: The raw dataset and processed data model.
+1. Excel File: The raw dataset and processed data model.
 
 2. Dashboard_Final.png: A high-resolution screenshot of the final visualization.
 
